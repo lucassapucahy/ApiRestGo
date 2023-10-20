@@ -13,4 +13,4 @@ Projeto onde crio uma API para fazer um crud de personalidades
 
 ## 📚 Detalhes do projeto
 
-Projeto criado usando o mux como um router para facilitar a necessidade de buscar informações na URL e utilizando o gorm como ORM.
+Projeto criado usando o mux como router para facilitar a necessidade de buscar informações na URL e utilizando o gorm como ORM.
