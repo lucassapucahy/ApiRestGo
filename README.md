@@ -1,4 +1,4 @@
-# GoCadastroProduto
+# GoApiPersonalidades
 Projeto onde crio uma API para fazer um crud de personalidades
 
 
