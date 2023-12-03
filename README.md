@@ -26,5 +26,3 @@ rotas disponiveis:
 - "/api/personalidades" POST : Insere uma nova personalidade no DB (body ex: {"nome":"Test","historia":"test"}
 - "/api/personalidades/{Id}" DELETE : deleta uma personalidade correspondente ao ID informado
 - "/api/personalidades/{Id}" PUT : edita uma personlidade baseada no ID da rota e nas informaçoes do body (body ex: {"nome":"Test","historia":"test"}
-
-Por hora ainda nao adicionei swagger nem dockerfile, estes serão os proximos passos.
